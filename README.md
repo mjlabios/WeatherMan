@@ -8,7 +8,7 @@
 
 2. Data in the forecasts used are the EpochDateTime, ImageIcon, IconPhrase and MobileLink.
 
-3. No internet connection handling.
+3. "No internet connection" handling - will display reload button.
 
 4. "Limited trial" accounts have a limit of 50 calls per day. Will be unable to display further calls after that, "No Data Fetched" will be displayed. [Link Here](https://developer.accuweather.com/packages)
 
